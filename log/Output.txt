@@ -1,0 +1,59 @@
+-------------------------
+FindBorder Implementation
+-------------------------
+ ------ System Parameters ------ 
+Log Path ..............:/home/loki/Projects/MachineLearningFinal/log/Output.txt
+Database Path .........:/home/loki/Projects/MachineLearningFinal/input/input.txt
+Object Index List .....:1, 3, 5, 7
+Attribute Index List ..:1, 2, 3
+ ------------------------------- 
+
+Loading data...
+Data loaded
+Dataset:
+00000
+00001
+00010
+00011
+00100
+00101
+00110
+00111
+01000
+01001
+01010
+01011
+01100
+01101
+
+Set of objects:
+00001
+00011
+00101
+00111
+
+Complement of set of objects (The rest of the dataset):
+00000
+00010
+00100
+00110
+01000
+01001
+01010
+01011
+01100
+01101
+
+Positive border items: 
+00001
+00011
+00101
+00111
+
+Negative border items: 
+00000
+00010
+00100
+00110
+
+FindBorder Algorithm completed
