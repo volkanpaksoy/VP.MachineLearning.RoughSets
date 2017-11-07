@@ -1,2 +1,2 @@
 
-Blog post about the implementation: http://volkanpaksoy.com/2014/04/rough-set-implementation/
+Blog post about the implementation: http://volkanpaksoy.com/archive/2014/04/18/rough-set-implementation/
